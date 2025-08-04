@@ -1,4 +1,4 @@
 ## Group members 
 - Reejan Khadka
-- Shrishnat Paudel
+- Shrishant Paudel
 - URL (https://github.com/ReejanK09/Project)
